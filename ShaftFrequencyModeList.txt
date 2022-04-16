@@ -1,0 +1,8 @@
+17:05, Friday, April 08, 2022
+Study name:Frequency 1
+Mode No.	Frequency(Rad/sec)	Frequency(Hertz)	Period(Seconds)
+1		      15210		     2420.7		   0.0004131
+2		      15356		     2443.9		  0.00040918
+3		      33180		     5280.8		  0.00018937
+4		      41752		     6645.1		  0.00015049
+5		      42882		     6824.9		  0.00014652
